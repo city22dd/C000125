@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.fastgit.org/leexuben/CatVod/main/jar/custom_spider.jar",
+"spider":"https://ghproxy.futils.com/https://github.com/city22dd/CatVod/blob/main/jar/custom_spider.jar",
 "lives":[
     {"group":"redirect","channels":[
       {"name":"redirect","urls":[
